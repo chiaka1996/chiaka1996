@@ -1,4 +1,5 @@
 - 👋 Hi, I’m OSUJI CHIAKA
+- i'm a Tecnical writer
 - 👀 I’m interested in Frontend development, Backend development and Footbal
 - 🌱 I’m currently learning Test Driven Development
 - 💞️ I’m looking to collaborate on any Javascript based project
